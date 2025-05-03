@@ -1,0 +1,18 @@
+# Deep learning + GP libraries
+torch
+gpytorch
+
+# Data manipulation and I/O
+numpy
+xarray
+netCDF4
+
+# Plotting
+matplotlib
+
+# scikit-learn for notebooks
+scikit-learn
+
+# Jupyter and kernel setup
+jupyter
+ipykernel
