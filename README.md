@@ -1,6 +1,6 @@
 # Gaussian Processes in GPyTorch for Multidimensional Continuous Signal Reconstruction and Image Inpainting
 
-### This repository is accompanied by a medium article -> coming soon.
+### This repository is accompanied by a medium article -> https://medium.com/@ducspe/gpytorch-gaussian-process-for-multidimensional-continuous-signal-reconstruction-and-image-3bd7bb2b284a
 
 
 We attempt to reconstruct temperature maps across large spatial regions by using only a very limited number of actual measurements from the available sensor stations. Given the scarcity of data, our goal is to reconstruct the target continuous signal while quantifying uncertainty in parallel. Hence, we use Gaussian Processes as our preferred tool due to their mathematically principled way of estimating uncertainty in scenarios with very limited data availability.
